@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paxton425
-- 👀 I’m interested in web and app development
+- 👀 I’m interested in web and desktop app development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java pr javascript projects 
 - 📫 How to reach me ...
