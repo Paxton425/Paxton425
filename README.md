@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Paxton425
-- 👀 I’m interested in web and desktop app development
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Sphelele aka @Paxton425
+- 👀 I’m interested in web development, my favourite language is javascript. 
+- 🌱 I’m currently learning different kinds of web development technologies
 - 💞️ I’m looking to collaborate on java pr javascript projects 
 - 📫 How to reach me ...
 
