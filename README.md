@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sphelele aka @Paxton425
-- 👀 I’m interested in web development, my favourite language is javascript. 
-- 🌱 I’m currently learning different kinds of web development technologies
-- 💞️ I’m looking to collaborate on java pr javascript projects 
-- 📫 How to reach me ...
+- 👀 I’m a growing web developer, my favourite languages are java & javascript. 
+- 🌱 I work with different technologies, including javascript and frameworks such as React.js, node.js, java & ASP.NET CORE.
+- 💞️ I’m open to collboration if interested. 
+- 📫 You can reach out to me on facebook(Name: Sphelele Paxton) or linkedin(link: linkedin.com/in/sphelele-mkhize-3098021b5)
 
 <!---
 Paxton425/Paxton425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
